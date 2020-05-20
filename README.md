@@ -1,6 +1,4 @@
-# oninonihonshi
-This is My first app.
-This app is to study japanese history.
+# 鬼の日本史
 
 ### アプリ説明
 日本史で出てくる人物を画像と共に覚えていくアプリです。
